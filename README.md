@@ -1,5 +1,6 @@
 # 🏛️ Customer Response Analysis to Deposit Offers 🏛️
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pQA9UKL_DpwIcDsf9X7SDz-EIxvLDR97?usp=sharing)[![PPT](https://img.shields.io/badge/View-PPT-green?logo=google-drive)](https://drive.google.com/file/d/1k_1dBl1D-oIsmzYolatHN4kNesSsm2UQ/view?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pQA9UKL_DpwIcDsf9X7SDz-EIxvLDR97?usp=sharing)
+[![PPT](https://img.shields.io/badge/View-PPT-green?logo=google-drive)](https://drive.google.com/file/d/1k_1dBl1D-oIsmzYolatHN4kNesSsm2UQ/view?usp=sharing)
 ## Introduction
 Increasing customer interest in deposits can be achived through a good marketing strategy. Predicting potential customers who are likely to make deposits is important to optimize the marketing target suitable for using the product. Predictions are made with an accurate model to determine whether customers will be interested in the deposit product or not. 
 ## Goal
